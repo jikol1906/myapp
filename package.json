@@ -1,0 +1,21 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "ehehe",
+  "main": "Hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jikol1906/myapp.git"
+  },
+  "author": "Boris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jikol1906/myapp/issues"
+  },
+  "homepage": "https://github.com/jikol1906/myapp#readme",
+  "engines": {"node" : "0.12.x"}
+
+}
