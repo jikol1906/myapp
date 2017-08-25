@@ -9,6 +9,6 @@ var server = http.createServer(function(req,res){
 });
 
 
-server.listen(process.env.port || 80);
+server.listen(process.env.PORT || 80);
 
 
